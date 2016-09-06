@@ -5,7 +5,8 @@
  * Date: 2016/7/11
  * Time: 上午2:54
  */
-// test
+// test2
+// haha test3
 namespace Mouson\Helpers\SequenceCalculator;
 
 interface CalculateInterface
